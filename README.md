@@ -4,7 +4,6 @@
 
 ➔ Splits X32/X-Live multichannel WAV recordings into individual mono WAV files.  
 ➔ Runs completely offline on macOS.  
-➔ Full transparent source code – no spyware, no hidden processes.
 
 ---
 
@@ -21,6 +20,12 @@
 ## Screenshots
 
 ![App Screenshot](screenshot.png) 
+
+---
+
+## Downloads
+
+Pre-built app bundles (for macOS) are available in the .zip file
 
 ---
 
@@ -62,10 +67,3 @@ See the file `LICENSE` for more details.
 Pull requests and issues are welcome!  
 Let's improve the tool together.
 
----
-
-## Downloads
-
-Pre-built app bundles (for macOS) are available under [Releases](https://github.com/YOUR-GITHUB-USERNAME/X-Live-Splitter/releases).
-
----
